@@ -34,4 +34,3 @@ jobs:
           - a ./app/build/outputs/apk/debug/termux-app-x86_64-$RELEASE_TAG-debug.apk
           - a ./app/build/outputs/apk/debug/termux-app-x86-$RELEASE_TAG-debug.apk
           $RELEASE_TAG
-
